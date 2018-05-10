@@ -1,3 +1,3 @@
 <?php
-echo "Functions13";
+echo "Functions";
 ?>
