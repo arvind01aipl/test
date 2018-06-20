@@ -10,4 +10,5 @@ echo "Functions4 by master";
 echo "Functions8 by master";
 echo "Functions9 by master";
 echo "Functions11 by master";
+echo "Functions12 by master";
 ?>
